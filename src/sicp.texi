@@ -105,4 +105,7 @@ PDF compiled by @url{https://github.com/hmemcpy/milewski-ctfp-pdf, Igal Tabachni
 \chapter{Simple Algebraic Data Types}
 \subfile{content/1.6/Simple Algebraic Data Types}
 
+\chapter{Limits and Colimits}
+\subfile{content/2.2/Limits and Colimits}
+
 @bye
